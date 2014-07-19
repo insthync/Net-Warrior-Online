@@ -1,0 +1,62 @@
+<classlist>
+<class>
+<id>1</id>
+<name>Male Warrior</name>
+<description>The Warrior</description>
+<modelid>5</modelid>
+</class>
+<class>
+<id>2</id>
+<name>Female Warrior</name>
+<description>The Warrior</description>
+<modelid>4</modelid>
+</class>
+<class>
+<id>3</id>
+<name>Helper</name>
+<description>The Helper</description>
+<modelid>3</modelid>
+</class>
+<class>
+<id>6</id>
+<name>Warper</name>
+<description>The Warper</description>
+<modelid>6</modelid>
+</class>
+<class>
+<id>7</id>
+<name>Spam</name>
+<description>The Spam</description>
+<modelid>2</modelid>
+</class>
+<class>
+<id>8</id>
+<name>Spam</name>
+<description>The Spam</description>
+<modelid>8</modelid>
+</class>
+<class>
+<id>9</id>
+<name>Spam</name>
+<description>The Spam</description>
+<modelid>9</modelid>
+</class>
+<class>
+<id>10</id>
+<name>Spam</name>
+<description>The Spam</description>
+<modelid>10</modelid>
+</class>
+<class>
+<id>11</id>
+<name>File Virus</name>
+<description>The File Virus</description>
+<modelid>11</modelid>
+</class>
+<class>
+<id>12</id>
+<name>File Virus</name>
+<description>The File Virus</description>
+<modelid>12</modelid>
+</class>
+</classlist>

@@ -1,0 +1,12 @@
+D:\Projects\Neoforce\Source\Controls\bin\x86\Release\TomShane.Neoforce.Controls.dll
+D:\Projects\Neoforce\Source\Controls\bin\x86\Release\TomShane.Neoforce.Controls.pdb
+D:\Projects\Neoforce\Source\Controls\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\Neoforce\Source\Controls\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Projects\Neoforce\Source\Controls\obj\x86\Release\TomShane.Neoforce.Controls.dll
+D:\Projects\Neoforce\Source\Controls\obj\x86\Release\TomShane.Neoforce.Controls.pdb
+D:\Projects\MMORPGCopierClient\Neoforce\bin\x86\Release\TomShane.Neoforce.Controls.dll
+D:\Projects\MMORPGCopierClient\Neoforce\bin\x86\Release\TomShane.Neoforce.Controls.pdb
+D:\Projects\MMORPGCopierClient\Neoforce\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\MMORPGCopierClient\Neoforce\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Projects\MMORPGCopierClient\Neoforce\obj\x86\Release\TomShane.Neoforce.Controls.dll
+D:\Projects\MMORPGCopierClient\Neoforce\obj\x86\Release\TomShane.Neoforce.Controls.pdb

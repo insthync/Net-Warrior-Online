@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{35AFC410-C882-4EF4-8CE0-C53C2C712B0C}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\Projects\MMORPGCopierClient\Neoforce\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Projects\MMORPGCopierClient\Neoforce\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Projects\MMORPGCopierClient\Neoforce\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\Projects\MMORPGCopierClient\Neoforce\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-10-09T15:55:46.0768762+07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

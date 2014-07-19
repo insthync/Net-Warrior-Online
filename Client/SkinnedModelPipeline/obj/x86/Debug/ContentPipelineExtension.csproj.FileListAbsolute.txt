@@ -1,0 +1,13 @@
+D:\Projects\XNASample\3DActionRPG\ContentPipelineExtension\bin\x86\Debug\ContentPipelineExtension.dll
+D:\Projects\XNASample\3DActionRPG\ContentPipelineExtension\bin\x86\Debug\ContentPipelineExtension.pdb
+D:\Projects\XNASample\3DActionRPG\ContentPipelineExtension\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll
+D:\Projects\XNASample\3DActionRPG\ContentPipelineExtension\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll
+D:\Projects\XNASample\3DActionRPG\ContentPipelineExtension\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll
+D:\Projects\XNASample\3DActionRPG\ContentPipelineExtension\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll
+D:\Projects\XNASample\3DActionRPG\ContentPipelineExtension\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll
+D:\Projects\XNASample\3DActionRPG\ContentPipelineExtension\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll
+D:\Projects\XNASample\3DActionRPG\ContentPipelineExtension\bin\x86\Debug\SkinnedModel.dll
+D:\Projects\XNASample\3DActionRPG\ContentPipelineExtension\bin\x86\Debug\SkinnedModel.pdb
+D:\Projects\XNASample\3DActionRPG\ContentPipelineExtension\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\XNASample\3DActionRPG\ContentPipelineExtension\obj\x86\Debug\ContentPipelineExtension.dll
+D:\Projects\XNASample\3DActionRPG\ContentPipelineExtension\obj\x86\Debug\ContentPipelineExtension.pdb

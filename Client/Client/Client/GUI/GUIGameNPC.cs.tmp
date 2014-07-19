@@ -1,0 +1,112 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Content;
+using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Media;
+using TomShane.Neoforce.Controls;
+
+namespace MMORPGCopierClient
+{
+    public class GUIGameNPC : Window
+    {
+        private Manager manager;
+        private TextBox msg;
+        private ListBox menu;
+        private Button btn;
+        private Network network;
+        private int npcid;
+        private Dictionary<int, String> txtmenu;
+        private Dictionary<String, String> msglist;
+        private ContentManager content;
+        public GUIGameNPC(Manager manager, Network network, ContentManager content, Dictionary<String, String> dialoglist)
+            : base(manager)
+        {
+            this.manager = manager;
+            this.network = network;
+            this.content = content;
+            this.txtmenu = new Dictionary<int, String>();
+            this.msglist = new Dictionary<String, String>();
+            foreach (String key in dialoglist.Keys)
+                msglist.Add(key, dialoglist[key]);
+            // Define window property
+            Init();
+            Text = "Chat";
+            Width = 768;
+            Height = 392;
+            Top = (manager.ScreenHeight - Height) / 2;
+            Left = (manager.ScreenWidth - Width) / 2;
+            MinimumHeight = 392;
+            MinimumWidth = 768;
+            MaximumHeight = 392;
+            MaximumWidth = 768;
+            Alpha = 220;
+            CloseButtonVisible = false;
+            Resizable = false;
+
+            msg = new TextBox(manager);
+            msg.Init();
+            msg.Parent = this;
+            msg.Mode = TextBoxMode.Multiline;
+            msg.Left = 0;
+            msg.Top = 0;
+            msg.Width = ClientWidth;
+            msg.Height = ClientHeight - 98;
+            msg.Anchor = Anchors.All;
+            msg.ReadOnly = true;
+            msg.ScrollBars = ScrollBars.Both;
+            Add(msg);
+
+            menu = new ListBox(manager);
+            menu.Init();
+            menu.Parent = this;
+            menu.Left = 1;
+            menu.Width = 752;
+            menu.Top = 260;
+            //menu.Visible = false;
+            Add(menu);
+
+            btn = new Button(manager);
+            btn.Init();
+            btn.Parent = this;
+            btn.Width = 140;
+            btn.Left = (Width - btn.Width) / 2;
+            btn.Top = 328;
+            btn.Text = "OK";
+            btn.Click += new TomShane.Neoforce.Controls.EventHandler(btn_Click);
+            //btn.Visible = false;
+            Add(btn);
+        }
+
+        void btn_Click(object sender, TomShane.Neoforce.Controls.EventArgs e)
+        {
+            if (txtmenu.ContainsKey(menu.ItemIndex))
+            {
+                // Send chat message
+                if (network.isConnected())
+                    network.Send("NPCDIALOG:" + npcid + " " + txtmenu[menu.ItemIndex] + ";");
+                this.Visible = false;
+            }
+        }
+
+        public void setDialog(int npcid, String txtmsg, Dictionary<String, String> txtmenu)
+        {
+            this.npcid = npcid;
+            if (msglist.ContainsKey(txtmsg))
+            {
+                msg.Text = msglist[txtmsg];
+            }
+            this.txtmenu.Clear();
+            menu.Items.Clear();
+            int i = 0;
+            foreach (String key in txtmenu.Keys)
+            {
+                menu.Items.Add(txtmenu[key]);
+                this.txtmenu.Add(i++, key);
+            }
+            menu.ItemIndex = 0;
+            this.Visible = true;
+        }
+    }
+}

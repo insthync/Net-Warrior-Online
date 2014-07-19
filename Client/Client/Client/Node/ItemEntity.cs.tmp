@@ -1,0 +1,65 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Text;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Audio;
+using Microsoft.Xna.Framework.Content;
+using Microsoft.Xna.Framework.Graphics;
+
+namespace MMORPGCopierClient
+{
+    public class ItemEntity
+    {
+        private int id;
+        private int itemid;
+        private GameModelBank bank;
+        private GameModelNode model;
+        private ContentManager content;
+        private GraphicsDeviceManager graphics;
+        private SpriteBatch spriteBatch;
+        private SpriteFont itemNameFont;
+        private Texture2D whiteRect;
+        public ItemEntity(int id, int itemid, ContentManager content, GraphicsDeviceManager graphics, SpriteBatch spriteBatch, SpriteFont itemNameFont, Texture2D whiteRect, GameModelBank bank)
+        {
+            this.id = id;
+            this.itemid = itemid;
+            this.content = content;
+            this.graphics = graphics;
+            this.spriteBatch = spriteBatch;
+            this.bank = bank;
+            this.itemNameFont = itemNameFont;
+            this.whiteRect = whiteRect;
+        }
+
+        public int getID()
+        {
+            return id;
+        }
+
+        public int getItemID()
+        {
+            return itemid;
+        }
+
+        public Vector3 getPosition()
+        {
+            return model._Position;
+        }
+
+        public void setPosition(Vector3 position)
+        {
+            model._Position = position;
+        }
+
+        public Vector3 getRotation()
+        {
+            return model._Rotation;
+        }
+
+        public void setRotation(Vector3 rotation)
+        {
+            model._Rotation = rotation;
+        }
+    }
+}

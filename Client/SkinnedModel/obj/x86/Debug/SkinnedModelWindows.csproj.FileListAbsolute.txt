@@ -1,0 +1,12 @@
+D:\Projects\XNASample\SkinningSample\SkinnedModel\bin\x86\Debug\SkinnedModel.dll
+D:\Projects\XNASample\SkinningSample\SkinnedModel\bin\x86\Debug\SkinnedModel.pdb
+D:\Projects\XNASample\SkinningSample\SkinnedModel\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\XNASample\SkinningSample\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Projects\XNASample\SkinningSample\SkinnedModel\obj\x86\Debug\SkinnedModel.dll
+D:\Projects\XNASample\SkinningSample\SkinnedModel\obj\x86\Debug\SkinnedModel.pdb
+D:\Projects\XNASample\3DActionRPG\SkinnedModel\bin\x86\Debug\SkinnedModel.dll
+D:\Projects\XNASample\3DActionRPG\SkinnedModel\bin\x86\Debug\SkinnedModel.pdb
+D:\Projects\XNASample\3DActionRPG\SkinnedModel\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\XNASample\3DActionRPG\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Projects\XNASample\3DActionRPG\SkinnedModel\obj\x86\Debug\SkinnedModel.dll
+D:\Projects\XNASample\3DActionRPG\SkinnedModel\obj\x86\Debug\SkinnedModel.pdb

@@ -1,0 +1,1 @@
+D:\Projects\MMORPGCopierClient\Client\ClientContent\obj\x86\Release\ResolveAssemblyReference.cache

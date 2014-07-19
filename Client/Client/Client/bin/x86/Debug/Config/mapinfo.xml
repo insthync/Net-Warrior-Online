@@ -1,0 +1,42 @@
+<maplist>
+<map>
+<id>1</id>
+<path>map1</path>
+<bgm>03</bgm>
+<position x="0" y="0" z="0"/>
+<rotation x="0" y="0" z="0"/>
+<scale>1</scale>
+</map>
+<map>
+<id>2</id>
+<path>map2</path>
+<bgm>02</bgm>
+<position x="0" y="0" z="0"/>
+<rotation x="0" y="0" z="0"/>
+<scale>1</scale>
+</map>
+<map>
+<id>3</id>
+<path>map3</path>
+<bgm>02</bgm>
+<position x="0" y="0" z="0"/>
+<rotation x="0" y="0" z="0"/>
+<scale>1</scale>
+</map>
+<map>
+<id>4</id>
+<path>map4</path>
+<bgm>02</bgm>
+<position x="0" y="0" z="0"/>
+<rotation x="0" y="0" z="0"/>
+<scale>1</scale>
+</map>
+<map>
+<id>5</id>
+<path>map5</path>
+<bgm>02</bgm>
+<position x="0" y="0" z="0"/>
+<rotation x="0" y="0" z="0"/>
+<scale>1</scale>
+</map>
+</maplist>

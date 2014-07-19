@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:MeshContent">
+    <Name>Plane001</Name>
+    <Identity>
+      <SourceFilename>C:\Users\Ittipon\Dropbox\Project\MMORPGCopierClient\Client\ClientContent\Particles\plane.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <OpaqueData>
+      <Data Key="MaxHandle" Type="int">3</Data>
+    </OpaqueData>
+    <Transform>1 0 0 0 0 6.123234E-17 -1 0 0 1 6.123234E-17 0 0 0 0 1</Transform>
+    <Positions>-50 50 -7.54979E-06 50 50 -7.54979E-06 -50 -50 7.54979E-06 50 -50 7.54979E-06</Positions>
+    <Geometry>
+      <Batch>
+        <Indices>2 1 0 0 3 2</Indices>
+        <Vertices>
+          <PositionIndices>2 0 1 3</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 -1.509958E-07 -1 0 -1.509958E-07 -1 0 -1.509958E-07 -1 0 -1.509958E-07 -1</VertexChannel>
+            <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0 0 0 1 1 1 1 0</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+    </Geometry>
+  </Asset>
+</XnaContent>

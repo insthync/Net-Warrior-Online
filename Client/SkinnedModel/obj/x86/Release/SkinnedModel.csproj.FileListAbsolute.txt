@@ -1,0 +1,6 @@
+D:\Projects\MMORPGCopierClient\SkinnedModel\bin\x86\Release\SkinnedModel.dll
+D:\Projects\MMORPGCopierClient\SkinnedModel\bin\x86\Release\SkinnedModel.pdb
+D:\Projects\MMORPGCopierClient\SkinnedModel\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\MMORPGCopierClient\SkinnedModel\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Projects\MMORPGCopierClient\SkinnedModel\obj\x86\Release\SkinnedModel.dll
+D:\Projects\MMORPGCopierClient\SkinnedModel\obj\x86\Release\SkinnedModel.pdb

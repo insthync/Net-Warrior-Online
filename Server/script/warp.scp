@@ -1,0 +1,10 @@
+comment: Warp script;
+comment: (mapid,x,y,warpid);
+//warp:1,16,16,3;
+//warp:1,16,112,4;
+//warp:1,112,112,1;
+//warp:1,112,16,2;
+//warp:2,4,4,7;
+//warp:3,4,252,8;
+//warp:4,252,252,5;
+//warp:5,252,4,6;

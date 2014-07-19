@@ -1,0 +1,35 @@
+<itemlist>
+<item>
+<id>1</id>
+<path></path>
+<position x="0" y="0" z="0" />
+<rotation x="0" y="0" z="0" />
+<scale>1.0</scale>
+<name>Body Armour</name>
+<description>No Description</description>
+<equipid>0</equipid>
+<invenpath>body</invenpath>
+</item>
+<item>
+<id>2</id>
+<path></path>
+<position x="0" y="0" z="0" />
+<rotation x="0" y="0" z="0" />
+<scale>1.0</scale>
+<name>Hand Armour</name>
+<description>No Description</description>
+<equipid>0</equipid>
+<invenpath>hand</invenpath>
+</item>
+<item>
+<id>3</id>
+<path></path>
+<position x="0" y="0" z="0" />
+<rotation x="0" y="0" z="0" />
+<scale>1.0</scale>
+<name>Foot Armour</name>
+<description>No Description</description>
+<equipid>0</equipid>
+<invenpath>foot</invenpath>
+</item>
+</itemlist>

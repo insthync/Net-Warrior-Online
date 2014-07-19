@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Waves.xwb;
+    Windows File = Win\Waves.xwb;
+    Xbox Bank Path Edited = 1;
+    Windows Bank Path Edited = 1;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+    Bank Last Revised Low = 432994901;
+    Bank Last Revised High = 30182395;
+
+    Wave
+    {
+        Name = att-0.1;
+        File = sfx\att-0.1.wav;
+        Build Settings Last Modified Low = 1507538609;
+        Build Settings Last Modified High = 30177420;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 7878;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 226590208;
+            Last Modified High = 29493077;
+        }
+    }
+
+    Wave
+    {
+        Name = att-0.2;
+        File = sfx\att-0.2.wav;
+        Build Settings Last Modified Low = 1507548609;
+        Build Settings Last Modified High = 30177420;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 8740;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 266590208;
+            Last Modified High = 29493077;
+        }
+    }
+
+    Wave
+    {
+        Name = att-1.1;
+        File = sfx\att-1.1.wav;
+        Build Settings Last Modified Low = 1507548609;
+        Build Settings Last Modified High = 30177420;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 12628;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 266590208;
+            Last Modified High = 29493077;
+        }
+    }
+
+    Wave
+    {
+        Name = att-1.2;
+        File = sfx\att-1.2.wav;
+        Build Settings Last Modified Low = 1507548609;
+        Build Settings Last Modified High = 30177420;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 16804;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 286590208;
+            Last Modified High = 29493077;
+        }
+    }
+
+    Wave
+    {
+        Name = att-1.3;
+        File = sfx\att-1.3.wav;
+        Build Settings Last Modified Low = 1507548609;
+        Build Settings Last Modified High = 30177420;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 11550;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 606590208;
+            Last Modified High = 29493077;
+        }
+    }
+
+    Wave
+    {
+        Name = att-1.4;
+        File = sfx\att-1.4.wav;
+        Build Settings Last Modified Low = 1507558610;
+        Build Settings Last Modified High = 30177420;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 6486;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 606590208;
+            Last Modified High = 29493077;
+        }
+    }
+
+    Wave
+    {
+        Name = att-1.5;
+        File = sfx\att-1.5.wav;
+        Build Settings Last Modified Low = 1507558610;
+        Build Settings Last Modified High = 30177420;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 6614;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 606590208;
+            Last Modified High = 29493077;
+        }
+    }
+
+    Wave
+    {
+        Name = levelup;
+        File = sfx\levelup.wav;
+        Build Settings Last Modified Low = 1507558610;
+        Build Settings Last Modified High = 30177420;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 569928;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3842849536;
+            Last Modified High = 29980059;
+        }
+    }
+
+    Wave
+    {
+        Name = menu_canceled;
+        File = sfx\menu_canceled.wav;
+        Build Settings Last Modified Low = 1507558610;
+        Build Settings Last Modified High = 30177420;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 56;
+            Play Region Length = 152108;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1163589888;
+            Last Modified High = 29978247;
+        }
+    }
+
+    Wave
+    {
+        Name = menu_selected;
+        File = sfx\menu_selected.wav;
+        Build Settings Last Modified Low = 1507558610;
+        Build Settings Last Modified High = 30177420;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 152108;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2793524480;
+            Last Modified High = 29978245;
+        }
+    }
+
+    Wave
+    {
+        Name = 01;
+        File = bgm\01.WAV;
+        Build Settings Last Modified Low = 1658317233;
+        Build Settings Last Modified High = 30177420;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 512;
+            Play Region Length = 50003968;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 4119632926;
+            Last Modified High = 30177417;
+        }
+    }
+
+    Wave
+    {
+        Name = 02;
+        File = bgm\02.WAV;
+        Build Settings Last Modified Low = 1658317233;
+        Build Settings Last Modified High = 30177420;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 512;
+            Play Region Length = 17825792;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 589189358;
+            Last Modified High = 30177418;
+        }
+    }
+
+    Wave
+    {
+        Name = 03;
+        File = bgm\03.WAV;
+        Build Settings Last Modified Low = 1658317233;
+        Build Settings Last Modified High = 30177420;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 512;
+            Play Region Length = 45088768;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 945329728;
+            Last Modified High = 30177418;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

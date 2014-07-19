@@ -1,0 +1,194 @@
+<modellist>
+<model>
+<id>0</id>
+<path>class1</path>
+<position x="0" y="0.2" z="0" />
+<rotation x="90" y="90" z="180" />
+<scale>10.0</scale>
+<clip state="0" clipname="Idle" />
+<clip state="1" clipname="Idle" />
+<clip state="2" clipname="Walk" />
+<clip state="3" clipname="Walk" />
+<clip state="4" clipname="AttackIdle" />
+<clip state="5" clipname="Attack1" />
+<clip state="6" clipname="Attack2" />
+<clip state="7" clipname="Attack3" />
+<clip state="8" clipname="Die" />
+</model>
+<model>
+<id>1</id>
+<path>class1</path>
+<position x="0" y="0.2" z="0" />
+<rotation x="90" y="90" z="180" />
+<scale>10.0</scale>
+<clip state="0" clipname="Idle" />
+<clip state="1" clipname="Idle" />
+<clip state="2" clipname="Walk" />
+<clip state="3" clipname="Walk" />
+<clip state="4" clipname="AttackIdle" />
+<clip state="5" clipname="Attack1" />
+<clip state="6" clipname="Attack2" />
+<clip state="7" clipname="Attack3" />
+<clip state="8" clipname="Die" />
+</model>
+<model>
+<id>2</id>
+<path>class2</path>
+<position x="0" y="0.2" z="0" />
+<rotation x="90" y="90" z="180" />
+<scale>10.0</scale>
+<clip state="0" clipname="Idle" />
+<clip state="1" clipname="Idle" />
+<clip state="2" clipname="Walk" />
+<clip state="3" clipname="Walk" />
+<clip state="4" clipname="AttackIdle" />
+<clip state="5" clipname="Attack1" />
+<clip state="6" clipname="Attack2" />
+<clip state="7" clipname="Attack3" />
+<clip state="8" clipname="Die" />
+</model>
+<model>
+<id>3</id>
+<path>class3</path>
+<position x="0" y="0.2" z="0" />
+<rotation x="90" y="90" z="180" />
+<scale>10.0</scale>
+<clip state="0" clipname="Idle" />
+<clip state="1" clipname="Idle" />
+<clip state="2" clipname="Walk" />
+<clip state="3" clipname="Walk" />
+<clip state="4" clipname="AttackIdle" />
+<clip state="5" clipname="Attack1" />
+<clip state="6" clipname="Attack2" />
+<clip state="7" clipname="Attack3" />
+<clip state="8" clipname="Die" />
+</model>
+<model>
+<id>4</id>
+<path>class4</path>
+<position x="0" y="0.2" z="0" />
+<rotation x="90" y="90" z="180" />
+<scale>9.75</scale>
+<clip state="0" clipname="Idle" />
+<clip state="1" clipname="Idle" />
+<clip state="2" clipname="Walk" />
+<clip state="3" clipname="Walk" />
+<clip state="4" clipname="AttackIdle" />
+<clip state="5" clipname="Attack1" />
+<clip state="6" clipname="Attack2" />
+<clip state="7" clipname="Attack3" />
+<clip state="8" clipname="Die" />
+</model>
+<model>
+<id>5</id>
+<path>class5</path>
+<position x="0" y="0.2" z="0" />
+<rotation x="90" y="90" z="180" />
+<scale>10.0</scale>
+<clip state="0" clipname="Idle" />
+<clip state="1" clipname="Idle" />
+<clip state="2" clipname="Walk" />
+<clip state="3" clipname="Walk" />
+<clip state="4" clipname="AttackIdle" />
+<clip state="5" clipname="Attack1" />
+<clip state="6" clipname="Attack2" />
+<clip state="7" clipname="Attack3" />
+<clip state="8" clipname="Die" />
+</model>
+<model>
+<id>6</id>
+<path>warper</path>
+<position x="0" y="0.2" z="0" />
+<rotation x="90" y="90" z="180" />
+<scale>3.5</scale>
+<clip state="0" clipname="Idle" />
+<clip state="1" clipname="Idle" />
+<clip state="2" clipname="Idle" />
+<clip state="3" clipname="Idle" />
+<clip state="4" clipname="Idle" />
+<clip state="5" clipname="Idle" />
+<clip state="6" clipname="Idle" />
+<clip state="7" clipname="Idle" />
+<clip state="8" clipname="Idle" />
+</model>
+<model>
+<id>8</id>
+<path>class8</path>
+<position x="0" y="0.2" z="0" />
+<rotation x="90" y="90" z="180" />
+<scale>10.0</scale>
+<clip state="0" clipname="Idle" />
+<clip state="1" clipname="Idle" />
+<clip state="2" clipname="Walk" />
+<clip state="3" clipname="Walk" />
+<clip state="4" clipname="AttackIdle" />
+<clip state="5" clipname="Attack1" />
+<clip state="6" clipname="Attack2" />
+<clip state="7" clipname="Attack3" />
+<clip state="8" clipname="Die" />
+</model>
+<model>
+<id>9</id>
+<path>class9</path>
+<position x="0" y="0.2" z="0" />
+<rotation x="90" y="90" z="180" />
+<scale>11.5</scale>
+<clip state="0" clipname="Idle" />
+<clip state="1" clipname="Idle" />
+<clip state="2" clipname="Walk" />
+<clip state="3" clipname="Walk" />
+<clip state="4" clipname="AttackIdle" />
+<clip state="5" clipname="Attack1" />
+<clip state="6" clipname="Attack2" />
+<clip state="7" clipname="Attack3" />
+<clip state="8" clipname="Die" />
+</model>
+<model>
+<id>10</id>
+<path>class10</path>
+<position x="0" y="0.2" z="0" />
+<rotation x="90" y="90" z="180" />
+<scale>11.5</scale>
+<clip state="0" clipname="Idle" />
+<clip state="1" clipname="Idle" />
+<clip state="2" clipname="Walk" />
+<clip state="3" clipname="Walk" />
+<clip state="4" clipname="AttackIdle" />
+<clip state="5" clipname="Attack1" />
+<clip state="6" clipname="Attack2" />
+<clip state="7" clipname="Attack3" />
+<clip state="8" clipname="Die" />
+</model>
+<model>
+<id>11</id>
+<path>class6</path>
+<position x="0" y="0.2" z="0" />
+<rotation x="90" y="90" z="180" />
+<scale>12.5</scale>
+<clip state="0" clipname="Idle" />
+<clip state="1" clipname="Idle" />
+<clip state="2" clipname="Walk" />
+<clip state="3" clipname="Walk" />
+<clip state="4" clipname="AttackIdle" />
+<clip state="5" clipname="Attack1" />
+<clip state="6" clipname="Attack2" />
+<clip state="7" clipname="Attack3" />
+<clip state="8" clipname="Die" />
+</model>
+<model>
+<id>12</id>
+<path>class7</path>
+<position x="0" y="0.2" z="0" />
+<rotation x="90" y="90" z="180" />
+<scale>12.5</scale>
+<clip state="0" clipname="Idle" />
+<clip state="1" clipname="Idle" />
+<clip state="2" clipname="Walk" />
+<clip state="3" clipname="Walk" />
+<clip state="4" clipname="AttackIdle" />
+<clip state="5" clipname="Attack1" />
+<clip state="6" clipname="Attack2" />
+<clip state="7" clipname="Attack3" />
+<clip state="8" clipname="Die" />
+</model>
+</modellist>
